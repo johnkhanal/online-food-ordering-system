@@ -1,0 +1,1 @@
+<h1>Congratulations Booking is successful</h1>
